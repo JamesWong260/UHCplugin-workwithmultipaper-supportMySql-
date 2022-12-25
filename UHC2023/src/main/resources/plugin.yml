@@ -1,0 +1,14 @@
+name: UHC2023
+version: '${project.version}'
+main: uhc2023.uhc2023.UHC2023
+api-version: 1.19
+commands:
+  UHCstart:
+  session1:
+  session2:
+  session3:
+  session4:
+  session5:
+  session6:
+  session7:
+  session8:
