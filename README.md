@@ -1,4 +1,4 @@
-# UHCplugin-workwithmultipaper-supportMySql-Bysiege260(James)
+# UHCplugin-workwithmultipaper-supportMySql-By(JamesWong)
 mostly UHCplugin cannot support Cross server or more than one instance(e.g multipaper), so I code
 A plugin can save the variable or data in MYSQL not just in the plugin folder. Since the plugin is
 in developing, there may be many bugs.
